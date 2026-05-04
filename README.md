@@ -8,7 +8,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yigiiitq/)
-[![Profile Views](https://komarev.com/ghpvc/?username=yigiiitq&label=Profile%20views&color=4F8CFF&style=for-the-badge)](https://github.com/yigiiitq)
 
 </div>
 
