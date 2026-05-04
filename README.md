@@ -1,41 +1,69 @@
-<h1 align="center">Hi 👋, I'm a Software Engineer</h1>
-<h3 align="center">Focusing on Distributed Systems, Cloud Architecture & LLM Infrastructure</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/yigiiitq/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<!-- Animasyonlu başlık banner -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+a+Software+Engineer;Distributed+Systems+%7C+Cloud+Native;LLM+Infrastructure+Enthusiast" alt="Typing SVG" />
+</a>
 
-<p align="left">
-🚀 <strong>About Me:</strong> 
-As a backend-focused engineer, I specialize in building scalable <b>distributed systems</b> and robust <b>cloud-native</b> solutions. Currently, I'm deep-diving into <b>LLM Infrastructure</b>, focusing on high-performance model serving and efficient data pipelines.
-</p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yigiiitq/)
+[![Profile Views](https://komarev.com/ghpvc/?username=yigiiitq&label=Profile%20views&color=4F8CFF&style=for-the-badge)](https://github.com/yigiiitq)
+
+</div>
 
 ---
 
-### 🏗️ Distributed Systems & Backend
-<p align="left">
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
+## 🚀 About Me
+
+```yaml
+role:        Backend & Distributed Systems Engineer
+location:    Ankara, Türkiye
+focus:       LLM Infrastructure · Model Serving · Data Pipelines
+exploring:   High-performance inference, vector search, RAG systems
+philosophy:  "Build for scale, optimize for clarity"
+```
+
+I design and build **scalable distributed systems** and **cloud-native** backends.
+Currently going deep on **LLM Infrastructure** — model serving, throughput optimization, and the data plumbing that makes it all work.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🏗️ Backend & Distributed Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,java,redis,postgres,mongodb,kafka,grpc" alt="Backend stack" />
 </p>
 
-### ☁️ Cloud & DevOps Infrastructure
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/> </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/> </a>
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,jenkins,terraform,grafana,prometheus,linux" alt="Cloud & DevOps stack" />
 </p>
 
-### 🤖 AI & LLM Infrastructure
-<p align="left">
+### 🤖 AI / LLM Infrastructure
+<p>
   <img src="https://img.shields.io/badge/LLMOps-FF6F00?style=for-the-badge&logo=rocket&logoColor=white" alt="LLMOps" />
-  <img src="https://img.shields.io/badge/Vector_Databases-4B0082?style=for-the-badge&logo=databricks&logoColor=white" alt="VectorDB" />
-  <img src="https://img.shields.io/badge/Model_Serving-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Serving" />
+  <img src="https://img.shields.io/badge/vLLM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/Model_Serving-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Model Serving" />
+  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
 </p>
+
+
+
+
+## 🧭 Currently Working On
+
+- 🔬 Optimizing **LLM inference latency** with batching & quantization
+- 📦 Building **resilient data pipelines** for embedding workflows
+- 🌐 Exploring **distributed vector search** at scale
+- 📚 Reading: *Designing Data-Intensive Applications* (re-reading, honestly)
+
+---
+
+<div align="center">
+
+⭐ *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
+
+</div>
