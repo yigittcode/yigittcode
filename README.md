@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- Animasyonlu başlık banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+a+Software+Engineer;Distributed+Systems+%7C+Cloud+Native;LLM+Infrastructure+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Hi%20%F0%9F%91%8B%2C%20I'm%20Yi%C4%9Fit%20%E2%80%94%20Software%20Engineer;Distributed%20Systems%20%7C%20Cloud%20Native%20%7C%20Cloud%20Security" alt="Yiğit — Software Engineer focused on Distributed Systems, Cloud Native, and Cloud Security" />
 </a>
 
 <br/>
@@ -15,54 +14,36 @@
 
 ## 🚀 About Me
 
-```yaml
-role:        Backend & Distributed Systems Engineer
-location:    Ankara, Türkiye
-focus:       LLM Infrastructure · Model Serving · Data Pipelines
-exploring:   High-performance inference, vector search, RAG systems
-philosophy:  "Build for scale, optimize for clarity"
-```
+**Software Engineer based in Ankara, Türkiye**, with a backend background and a focus on **Distributed Systems, Cloud Native, and Cloud Security**.
 
-I design and build **scalable distributed systems** and **cloud-native** backends.
-Currently going deep on **LLM Infrastructure** — model serving, throughput optimization, and the data plumbing that makes it all work.
+I work mainly with **Java, Go, and Node.js**, and have hands-on experience building and deploying backend services on **AWS**. I'm interested in how services behave under concurrency, recover from failures, and stay observable and secure in production.
+
+## 🧭 What I'm Focusing On
+
+- **Distributed Systems:** concurrency, service communication, consistency, and fault tolerance.
+- **Cloud Native:** containerized services, deployment strategies, observability, and cloud cost optimization.
+- **Cloud Security:** identity and access management, least privilege, secrets management, and securing cloud infrastructure.
+
+I'm working through *Designing Data-Intensive Applications* and building a deeper understanding of the tradeoffs behind reliable systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🏗️ Backend & Distributed Systems
+### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,java,redis,postgres,mongodb,kafka,grpc" alt="Backend stack" />
+  <img src="https://skillicons.dev/icons?i=java,go,nodejs,python,spring,express" alt="Java, Go, Node.js, Python, Spring, Express" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,jenkins,terraform,grafana,prometheus,linux" alt="Cloud & DevOps stack" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="PostgreSQL, MongoDB, MySQL" />
 </p>
 
-### 🤖 AI / LLM Infrastructure
+### Cloud & Tools
+
 <p>
-  <img src="https://img.shields.io/badge/LLMOps-FF6F00?style=for-the-badge&logo=rocket&logoColor=white" alt="LLMOps" />
-  <img src="https://img.shields.io/badge/vLLM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="vLLM" />
-  <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB" />
-  <img src="https://img.shields.io/badge/Model_Serving-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Model Serving" />
-  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" alt="AWS, Docker, Linux, Git" />
 </p>
-
-
-
-
-## 🧭 Currently Working On
-
-- 🔬 Optimizing **LLM inference latency** with batching & quantization
-- 📦 Building **resilient data pipelines** for embedding workflows
-- 🌐 Exploring **distributed vector search** at scale
-- 📚 Reading: *Designing Data-Intensive Applications* (re-reading, honestly)
-
----
-
-<div align="center">
-
-⭐ *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
-
-</div>
