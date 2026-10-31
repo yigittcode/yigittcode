@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Hi%20%F0%9F%91%8B%2C%20I'm%20Yi%C4%9Fit%20%E2%80%94%20Software%20Engineer;Distributed%20Systems%20%7C%20Cloud%20Native%20%7C%20Cloud%20Security" alt="Yiğit — Software Engineer focused on Distributed Systems, Cloud Native, and Cloud Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=850&lines=Hi%20%F0%9F%91%8B%2C%20I'm%20Yi%C4%9Fit%20%E2%80%94%20Software%20Engineer;Distributed%20Systems%20%7C%20Cloud%20Native%20%7C%20Cloud%20Security" alt="Yiğit — Software Engineer focused on Distributed Systems, Cloud Native, and Cloud Security" />
 </a>
 
 <br/>
